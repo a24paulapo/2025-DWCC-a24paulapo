@@ -4,6 +4,8 @@
 
 2. alias -> alias cpr=" cp ...."
 
+   nano .~/.bashrc
+
    Facemos un alias cun comando largo que queremos ter máis accesible
 
 **Atallos**

@@ -1,1 +1,4 @@
-console.log('Ola mundo');
+'use strict';
+
+let palabra = 'OLA'.toLowerCase;
+console.log(palabra);
